@@ -1,0 +1,12 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1699419125
+icon.svg::CompressedTexture2D::3837202737176658061::1699401867::1699401896::1::::<><>::
+::res://Resources/::1699406486
+::res://Resources/Fonts/::1699406551
+PixeloidMono-d94EV.ttf::FontFile::5978384330305408357::1699406548::1699406551::1::::<><>::
+PixeloidSans-mLxMm.ttf::FontFile::1945149868837164370::1699406548::1699406551::1::::<><>::
+PixeloidSansBold-PKnYd.ttf::FontFile::74935392452208957::1699406548::1699406551::1::::<><>::
+::res://Scenes/::1699412572
+main.tscn::PackedScene::8228699198244351476::1699412572::0::1::::<><>::res://Scripts/main.gd<>uid://2yilmjonv48e::::res://Resources/Fonts/PixeloidSans-mLxMm.ttf
+::res://Scripts/::1699412570
+main.gd::GDScript::-1::1699412570::0::1::::<>Node2D<>::
