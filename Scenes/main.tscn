@@ -1,0 +1,26 @@
+[gd_scene load_steps=3 format=3 uid="uid://dpibqdpc0lj0w"]
+
+[ext_resource type="Script" path="res://Scripts/main.gd" id="1_ugmno"]
+[ext_resource type="FontFile" uid="uid://2yilmjonv48e" path="res://Resources/Fonts/PixeloidSans-mLxMm.ttf" id="2_5v5rs"]
+
+[node name="main" type="Node2D"]
+script = ExtResource("1_ugmno")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_right = 1162.0
+offset_bottom = 662.0
+color = Color(0.447059, 0.435294, 0.443137, 1)
+
+[node name="Score" type="RichTextLabel" parent="."]
+offset_left = 329.0
+offset_top = 283.0
+offset_right = 816.0
+offset_bottom = 390.0
+theme_override_fonts/normal_font = ExtResource("2_5v5rs")
+theme_override_font_sizes/normal_font_size = 80
+bbcode_enabled = true
+text = "hola"
+
+[node name="MPS" type="RichTextLabel" parent="."]
+offset_right = 40.0
+offset_bottom = 40.0
